@@ -1,4 +1,4 @@
-#  
+#  smart Craft for macOS Addon | version history + custom shortcuts is the best Craft for macOS addon, featuring version history and custom shortcuts. Safe, efficient, and optimized
 
 
 
